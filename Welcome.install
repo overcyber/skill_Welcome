@@ -1,0 +1,23 @@
+{
+    "name": "Welcome",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "overcyber",
+    "maintainers": [],
+    "desc": "Presence detection with welcome dialog",
+    "aliceMinVersion": "1.0.0-b4",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        ""
+    ],
+    "conditions": {
+        "lang": [
+            "en"
+        ],
+        "online": true,
+        "asrArbitraryCapture": true
+    }
+}

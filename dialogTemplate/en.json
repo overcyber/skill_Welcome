@@ -1,0 +1,7 @@
+{
+    "skill": "Welcome",
+    "icon": "time",
+    "description": "Presence detection with welcome dialog",
+    "slotTypes": [],
+    "intents": []
+}
